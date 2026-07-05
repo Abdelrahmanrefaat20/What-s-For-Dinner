@@ -1,0 +1,67 @@
+/* sm */
+/* @media (min-width: 576px) {
+  .prfile-item {
+    width: 100%;
+  }
+} */
+/* md */
+@media (min-width: 768px) {
+
+}
+/* lg */
+@media (min-width: 992px) {
+
+}
+
+/* xl */
+@media (min-width: 1200px) {
+
+}
+/* xxl */
+@media (min-width: 1400px) {
+
+
+}
+
+@media (max-width:768px){
+
+.meal-info{
+    padding: 10px !important;
+}
+   .card{
+height: 135vh !important;
+}
+
+    .recipe-tabs{
+        width: 100%;
+    }
+    .col-7 {
+        width: 100%;
+        min-height: 100vh;
+    }
+    .value{
+        font-size:24px;
+    }
+
+    .title{
+        font-size:16px;
+    }
+
+
+    .tip-card{
+        padding:16px;
+    }
+
+    .tip-card p{
+        font-size:15px;
+    }
+}
+@media(max-width: 992px){
+    .navbar-nav  {
+  align-items: start !important;
+}
+.nutrition-card h4{
+    font-size: medium;
+}
+
+}
