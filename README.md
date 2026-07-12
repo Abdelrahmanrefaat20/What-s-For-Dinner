@@ -69,6 +69,4 @@ Since this is a static site, no installation or build step is needed.
 - **Colors & theme**: custom overrides live in `css/style.css`.
 - **Images**: recipe photos are currently pulled from Unsplash URLs in `js/main.js` (`imgCover` field) — replace with your own image URLs or local paths as needed.
 
-## License
 
-No license has been specified yet. Consider adding one (e.g. MIT) if you plan to share or accept contributions to this project.
